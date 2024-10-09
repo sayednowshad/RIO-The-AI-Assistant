@@ -9,8 +9,8 @@ Rio is a simple yet powerful AI assistant built using HTML, CSS, and JavaScript.
 👨‍💻 User-Friendly: Clean, simple interface designed for desktop use.<br>
 🛠️ Tech Stack<br><br>
 <h4>HTML: Page structure</h4>
-<h4>CSS</h4>: Styling for a neat look.<br>
-<h4>JavaScript:</h4> Handles AI logic and speech recognition.<br>
+<h4>CSS: Styling for a neat look.</h4><br>
+<h4>JavaScript: Handles AI logic and speech recognition.</h4> <br>
 Open index.html in your browser (Chrome, Edge).<br>
 Click the 🎤 icon and start interacting with Rio via voice commands!
 ⚙️ How It Works
