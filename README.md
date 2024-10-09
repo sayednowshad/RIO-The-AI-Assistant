@@ -18,7 +18,7 @@ To use Rio on your local machine, follow these simple steps:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/rio-ai-assistant.git
+git clone https://github.com/sayednowshad/RIO-The-AI-Assistant/tree/master
 Navigate to the folder and open the index.html file in any modern browser.
 Click the microphone icon, and you’re ready to go! Talk to Rio, and it will respond to your queries in real time.
 💡 **How Rio Works**
